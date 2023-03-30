@@ -18,7 +18,7 @@ restaurant/api-token-auth - to get a token for a user
 restaurant/booking - to create, read, update and delete a booking.
 restaurant/auth- to view user details
 
-##Libraries 
+## Libraries 
 1. Django
 2. Djangorestframework
 3. Djoser
